@@ -13,77 +13,77 @@ namespace Blazor.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 1 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 2 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 3 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 4 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 5 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 6 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 7 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 8 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 9 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Blazor;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "D:\GitRepo\samples\Blazor\_Imports.razor"
+#line 10 "d:\GitRepo\samples\Blazor\_Imports.razor"
 using Blazor.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\GitRepo\samples\Blazor\Pages\FetchData.razor"
+#line 3 "d:\GitRepo\samples\Blazor\Pages\FetchData.razor"
 using Blazor.Data;
 
 #line default
@@ -98,7 +98,7 @@ using Blazor.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "D:\GitRepo\samples\Blazor\Pages\FetchData.razor"
+#line 39 "d:\GitRepo\samples\Blazor\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 
